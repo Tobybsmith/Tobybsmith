@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobybsmith&label=Profile%20views&color=0e75b6&style=flat" alt="tobybsmith" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tobybsmith&rank=B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tobybsmith&rank=SECRET,S,A,B)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [An Elevator-Themed Game](https://github.com/Tobybsmith/Elevator)
 
