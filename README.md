@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tobybsmith&label=Profile%20views&color=0e75b6&style=flat" alt="tobybsmith" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=tobybsmith&rank=B])(https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tobybsmith&rank=B)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [An Elevator-Themed Game](https://github.com/Tobybsmith/Elevator)
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [http://noteventoast.ddns.net/projects/index.html](http://noteventoast.ddns.net/projects/index.html)
 
-- 📝 I regularly write articles on [http://noteventoast.ddns.net/blog/index.html](http://noteventoast.ddns.net/blog/index.html)
+- 📝 I semi-regularly write articles on [http://noteventoast.ddns.net/blog/index.html](http://noteventoast.ddns.net/blog/index.html)
 
 - 📫 How to reach me **tobybsmith121@gmail.com**
 
