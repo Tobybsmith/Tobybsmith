@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Front End Web Development, Kotlin, and Godot**
 
-- 👨‍💻 All of my projects are available at [http://noteventoast.ddns.net/projects/index.html](http://noteventoast.ddns.net/projects/index.html)
+- 👨‍💻 All of my projects are available at [http://noteventoast.ddns.net/projects/index.html](http://noteventoast.ddns.net/public/projects/index.html)
 
-- 📝 I semi-regularly write articles on [http://noteventoast.ddns.net/blog/index.html](http://noteventoast.ddns.net/blog/index.html)
+- 📝 I semi-regularly write articles on [http://noteventoast.ddns.net/blog/index.html](http://noteventoast.ddns.net/public/blog/index.html)
 
 - 📫 How to reach me **tobybsmith121@gmail.com**
 
